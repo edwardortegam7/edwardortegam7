@@ -1,14 +1,24 @@
-<h1 align="center">Hola 👋, Me llamo Edward</h1>
-<h3 align="center">Estudiante de Ingeniería de Sistemas</h3>
 
-- 💬 Ask me about **java, javascript, php, html, css, mysql**
+# Hola, soy Edward! 👋
 
-- 📫 How to reach me **edward.ortegamo@gmail.com**
+# 🚀 Acerca de mi
+👋¡Hola! Me llamo Edward, estudiante de Ingeniería de Sistemas, autodidacta en gran parte.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+🚀He trabajado en proyectos de manera autodidacta y en la universidad de manera colaborativa, proyectos de innovación donde aprendí y sigo aprendiendo herramientas y habilidades en diferentes lenguajes de programación como C++, C#, Python, PHP, Javascript, HTML, CSS, destacando en el análisis y solución de problemas.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+💼En busca de oportunidades para aplicar mis conocimientos académicos y habilidades técnicas en un entorno profesional. Busco contribuir al desarrollo de soluciones innovadoras y aprender de manera continua.
+
+💬Te animo a escribirme por privado o al correo edward.ortegamo@gmail.com.
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edward-ortega-33a434237/)
+
+
+
+## 🛠 Skills
+C++, C#, Java, Python, PHP, MySQL, Javascript, HTML, CSS.
+
+
 
