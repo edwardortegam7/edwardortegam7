@@ -17,7 +17,7 @@
 
 
 ## 🛠 Skills
-C++, C#, Java, Python, PHP, MySQL, Oracle SQL Developer, Javascript, HTML, CSS.
+C++, C#, Java, Python, PHP, MySQL, Oracle SQL Developer, SQL Server, Javascript, HTML, CSS.
 
 
 
