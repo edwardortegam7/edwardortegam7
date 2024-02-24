@@ -4,12 +4,11 @@
 # 🚀 Acerca de mi
 👋¡Hola! Me llamo Edward, estudiante de Ingeniería de Sistemas, autodidacta en gran parte.
 
-🚀He trabajado en proyectos de manera autodidacta y en la universidad de manera colaborativa, proyectos de innovación donde aprendí y sigo aprendiendo herramientas y habilidades en diferentes lenguajes de programación como C++, C#, Java, Python, PHP, Javascript, HTML, CSS, destacando en el análisis y solución de problemas.
+🚀He trabajado en proyectos tanto de forma autodidacta como colaborativa en la universidad. Estos proyectos han sido de innovación, donde he adquirido y continuo adquiriendo habilidades y herramientas en diversas áreas, incluyendo diferentes lenguajes de programación, desarrollo web, bases de datos, entre otros. Me destaco especialmente en el análisis y solución de problemas.
 
-💼En busca de oportunidades para aplicar mis conocimientos académicos y habilidades técnicas en un entorno profesional. Busco contribuir al desarrollo de soluciones innovadoras y aprender de manera continua.
+💼Tengo conocimientos y experiencia en proyectos, particularmente en desarrollo backend con Java, y desarrollo web con .NET y PHP.
 
-💬Te animo a escribirme por privado o al correo edward.ortegamo@gmail.com.
-
+💬Contacto: edward.ortegamo@gmail.com.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
@@ -18,7 +17,7 @@
 
 
 ## 🛠 Skills
-C++, C#, Java, Python, PHP, MySQL, Javascript, HTML, CSS.
+C++, C#, Java, Python, PHP, MySQL, Oracle SQL Developer, Javascript, HTML, CSS.
 
 
 
