@@ -6,7 +6,7 @@
 
 🚀He trabajado en proyectos tanto de forma autodidacta como colaborativa en la universidad. Estos proyectos han sido de innovación, donde he adquirido y continuo adquiriendo habilidades y herramientas en diversas áreas, incluyendo diferentes lenguajes de programación, desarrollo web, bases de datos, entre otros. Me destaco especialmente en el análisis y solución de problemas.
 
-💼Tengo conocimientos y experiencia en proyectos, particularmente en desarrollo backend con Java, y desarrollo web con .NET y PHP.
+💼Tengo conocimientos y experiencia en proyectos, particularmente en desarrollo backend con .NET y PHP.
 
 💬Contacto: edward.ortegamo@gmail.com.
 
