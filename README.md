@@ -11,7 +11,7 @@
 💬Contacto: edwardortegam7@gmail.com.
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/edwardortegamory/))
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwardortegamory/)
 
 ## 🛠 Skills
 C++, C#, Java, Python, PHP, MySQL, Oracle SQL Developer, SQL Server, Javascript, HTML, CSS.
