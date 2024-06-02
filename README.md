@@ -4,17 +4,14 @@
 # 🚀 Acerca de mi
 👋¡Hola! Me llamo Edward, estudiante de Ingeniería de Sistemas, autodidacta en gran parte.
 
-🚀He trabajado en proyectos tanto de forma autodidacta como colaborativa en la universidad. Estos proyectos han sido de innovación, donde he adquirido y continuo adquiriendo habilidades y herramientas en diversas áreas, incluyendo diferentes lenguajes de programación, desarrollo web, bases de datos, entre otros. Me destaco especialmente en el análisis y solución de problemas.
+🚀He trabajado y sigo trabajando en proyectos personales y en equipo. Estos proyectos han sido de innovación, donde he adquirido y continuo adquiriendo habilidades y herramientas en diversas áreas, incluyendo diferentes lenguajes de programación, desarrollo web, bases de datos, entre otros.
 
-💼Tengo conocimientos y experiencia en proyectos, particularmente en desarrollo backend con .NET y PHP.
+💼Tengo conocimientos y experiencia en proyectos, particularmente en desarrollo backend con .NET.
 
-💬Contacto: edward.ortegamo@gmail.com.
+💬Contacto: edwardortegam7@gmail.com.
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edward-ortega-mory-33a434237/)
-
-
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/edwardortegamory/))
 
 ## 🛠 Skills
 C++, C#, Java, Python, PHP, MySQL, Oracle SQL Developer, SQL Server, Javascript, HTML, CSS.
