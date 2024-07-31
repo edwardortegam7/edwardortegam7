@@ -4,9 +4,7 @@
 # 🚀 Acerca de mi
 👋¡Hola! Me llamo Edward, estudiante de Ingeniería de Sistemas, autodidacta en gran parte.
 
-🚀He trabajado y sigo trabajando en proyectos personales y en equipo. Estos proyectos han sido de innovación, donde he adquirido y continuo adquiriendo habilidades y herramientas en diversas áreas, incluyendo diferentes lenguajes de programación, desarrollo web, bases de datos, entre otros.
-
-💼Tengo conocimientos y experiencia en proyectos, particularmente en desarrollo backend con .NET.
+💼Mi experiencia incluye proyectos universitarios tanto individuales como en equipo, donde he desarrollado habilidades en diversos lenguajes de programación y gestión de bases de datos. Además, he trabajado en el desarrollo de aplicaciones de escritorio y web, destacando en backend con .NET y SpringBoot. 
 
 💬Contacto: edwardortegam7@gmail.com.
 
